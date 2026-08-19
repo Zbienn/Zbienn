@@ -29,5 +29,5 @@ export default Hello {
 </p>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,java,py,cpp,c,php,go,html,css,js,react,angular,nodejs,dotnet,spring,postgres,azure,docker,git,github,unity,vscode">
+  <img src="https://skillicons.dev/icons?i=cs,java,py,cpp,c,php,go,html,css,js,react,angular,nodejs,dotnet,spring,postgres,azure,docker,git,github,unity,vscode,postman,stackoverflow,linux,godot,unreal,visualstudio,typescript,vercel">
 </p>
