@@ -18,23 +18,16 @@ export default Hello {
 }
 ```
 
-
-### 📊 Estatísticas do GitHub
-
 <p align="left">
-  <img src="https://github-stats-extended.vercel.app/api?username=Zbienn&show_icons=true&theme=tokyonight" alt="GitHub stats" height="165" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Zbienn&layout=compact&theme=tokyonight" alt="Top languages" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zbienn&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zbienn&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Zbienn&theme=github_dark" />
+</p>
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zbienn&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Zbienn&theme=github_dark&utcOffset=8" />
 </p>
 
-### 🧰 Tecnologias
-
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,java,py,cpp,c,php,go,html,css,js,react,angular,nodejs,dotnet,spring,postgres,azure,docker,git,github,unity,vscode" />
-</p>
-
-### 📫 Contacto
-
-<p align="left">
-  <a href="mailto:guilherme.pereira.esct@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/Zbienn"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <img src="https://skillicons.dev/icons?i=cs,java,py,cpp,c,php,go,html,css,js,react,angular,nodejs,dotnet,spring,postgres,azure,docker,git,github,unity,vscode">
 </p>
